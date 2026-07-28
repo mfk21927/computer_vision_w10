@@ -1,1 +1,1 @@
-# computer_vision_w10
+# computer_vision_for_facial_recognition_and_object_detection
